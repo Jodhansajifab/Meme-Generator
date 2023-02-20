@@ -1,0 +1,29 @@
+.nav-bar-full{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: sticky;
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    box-shadow: 0 5px 5px #a41ded;
+}
+.nav-bar-logo{
+    width: 65px;
+    padding: 10px;
+    opacity: 80%;
+}
+.nav-bar-btn{
+    font-family: 'Raleway', sans-serif;
+    font-weight:700;
+    color: rgb(250, 248, 250);
+    padding: 7px;
+    border-radius: 15px;
+    border-color: #A626D3;
+    background-color: #8c31ad;
+    cursor:cell;
+}
+.nav-title{
+    font-family: 'Raleway', sans-serif;
+    font-size:xx-large;
+    color: aliceblue;
+    text-shadow: 0.50px 0.50px #7d169f;
+}
